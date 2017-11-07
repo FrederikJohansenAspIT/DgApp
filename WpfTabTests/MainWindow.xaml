@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <TabControl>
+            <TabItem Header="Poop">
+               
+            </TabItem>
+            <TabItem Header="thingamajig">
+                <Label>wefpwiehføp</Label>
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>
